@@ -1,0 +1,10 @@
+{
+    "require": {
+        "illuminate/database": "^8.39",
+        "raveren/kint": "^3.1",
+        "twig/twig": "^3.3"
+    },
+    "require-dev": {
+        "kint-php/kint": "^3.3"
+    }
+}
